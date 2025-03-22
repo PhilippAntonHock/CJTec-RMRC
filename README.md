@@ -1,6 +1,6 @@
 # CJTec-RMRC Robot Building Tutorial
 
-Welcome to the CJT-Robotics RMRC Robot Building Tutorial! This tutorial explains how to build the robot that the team CJTec used to get 1. Place in the Rapidly Manufactured Robot Challenge (RMRC) at RoboCup German Open 2025 
+This tutorial explains how to build the robot that the team CJTec used to get 1. Place in the Rapidly Manufactured Robot Challenge (RMRC) at the RoboCup German Open 2025.
 
 
 ### About RMRC
@@ -11,6 +11,9 @@ Welcome to the CJT-Robotics RMRC Robot Building Tutorial! This tutorial explains
 
 ## Building the Robot
 The Building guide is seperated in two parts:
+
 [Mechatronics](Mechatronics.md)
 
 [Informatics](Informatics.md)
+
+
