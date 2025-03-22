@@ -12,3 +12,4 @@ Welcome to the CJT-Robotics RMRC Robot Building Tutorial! This tutorial explains
 ## Building the Robot
 The Building guide is seperated in two parts:
 [Mechatronics](Mechatronics.md)
+[Informatics](Informatics.md)
