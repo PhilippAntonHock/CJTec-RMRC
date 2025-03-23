@@ -88,7 +88,7 @@ We hope this project will enable rescue services to deploy the robot in the futu
 
 ---
 
-# Building the Robot
+# Description
 
 ## 2.0 Mechatronics (Mechanical Engineering + Electrical Engineering)
 
